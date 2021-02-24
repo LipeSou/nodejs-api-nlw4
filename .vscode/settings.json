@@ -1,0 +1,10 @@
+{
+    "editor.fontSize": 20,
+
+    
+    "path-intellisense.mappings": {
+        "/": "${workspaceFolder}",
+        "lib": "${workspaceFolder}/lib",
+        "global": "/Users/dummy/globalLibs"
+    },
+}
